@@ -10,7 +10,7 @@ import lejos.robotics.navigation.DifferentialPilot;
 public class LineFollower{
  
  /**
-  * @author Grayson Lorenz
+  * @author  Grayson Lorenz
   */
  public static void main(String[] args) {
 	 //Waits for input
